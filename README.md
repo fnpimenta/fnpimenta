@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <h2> About Me</h2>
   
 - Postdoc researcher in the field of Floating offshore wind turbines at @FEUP
-- PhD student in the field of gravitational waves at @IST
+<!-- - PhD student in the field of gravitational waves at @IST -->
 - Invited Assistant Professor at @FEUP

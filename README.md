@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **fnpimenta/fnpimenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="left">Francisco Pimenta</h1>
+<h3 align="left">Postdoc researcher and Invited Assistant Professor at @FEUP</h3>
+
+<div align="left">
+
+<h2> About Me</h2>
+  
+- Postdoc researcher in the field of Floating offshore wind turbines at @FEUP
+- PhD student in the field of gravitational waves at @IST
+- Invited Assistant Professor at @FEUP
